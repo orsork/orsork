@@ -7,6 +7,6 @@
 - 🌱 I’m currently learning how apps and websites are made  
 - 🤔 I’m looking for help with new project ideas and simple coding concepts  
 - 💬 Ask me about my school life, creative projects, or what I’m learning  
-- 📫 How to reach me: Through my brother (for now!)  
+  
 - 😄 Pronouns: She/Her  
-- ⚡ Fun fact: I started making apps before I even learned real coding 🚀
+- 
